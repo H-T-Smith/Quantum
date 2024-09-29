@@ -12,7 +12,7 @@ This folder contains the dataset for **Scenario 1**, representing the first envi
 ### 2. `Scenario 2/`
 This folder contains the dataset for **Scenario 2**, representing a different environmental setup. The data format is consistent with Scenario 1, but the environmental variables differ to simulate varying conditions for user localization.
 
-### 3. `Scenario 3/`
+### 3. `Scenario3/`
 This folder contains the dataset for **Scenario 3**, representing another unique environment for indoor localization. Similar to the other two scenarios, the dataset in this folder captures different factors influencing user location predictions.
 
 ### 4. `HQNN_user_localization.ipynb`
