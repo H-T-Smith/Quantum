@@ -51,7 +51,7 @@ def create_qnn(
     elif feature_map_type == "pauli":
         feature_map = PauliFeatureMap(feature_dimension=num_qubits, reps=reps, paulis=["X", "Y", "Z"])
         input_params = feature_map.parameters
-    elif feature_map_type == "custom_rxrz":
+    elif feature_map_type == "rxrz":
         feature_map, input_params = custom_rx_rz_map(num_qubits)
     else:
         raise ValueError(f"Unsupported feature map type: {feature_map_type}")
