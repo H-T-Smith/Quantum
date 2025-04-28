@@ -24,7 +24,7 @@ def evaluate_model(model, test_loader, device="cpu", return_preds=False, verbose
         rmse = np.sqrt(mse)
 
         if verbose:
-            print(f"✅ RMSE on test set: {rmse:.4f}")
+            print(f"RMSE on test set: {rmse:.4f}")
 
         if return_preds:
             return rmse, predictions, labels
