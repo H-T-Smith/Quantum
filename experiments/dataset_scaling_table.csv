@@ -1,0 +1,4 @@
+Scenario_Combination,RMSE
+scenario_one,1.3922241
+scenario_one+scenario_two,1.1211987
+scenario_one+scenario_two+scenario_three,2.0751827

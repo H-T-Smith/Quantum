@@ -1,0 +1,16 @@
+Scenario,Signal,Reps,RMSE
+scenario_one,bluetooth,3,1.3172728
+scenario_one,wifi,5,1.4565889
+scenario_one,bluetooth,1,1.4924662
+scenario_one,wifi,4,1.4930325
+scenario_one,zigbee,2,1.5273201
+scenario_one,wifi,3,1.5361867
+scenario_one,zigbee,4,1.5387597
+scenario_one,bluetooth,4,1.5480444
+scenario_one,wifi,1,1.5713813
+scenario_one,wifi,2,1.5921066
+scenario_one,zigbee,1,1.6237823
+scenario_one,bluetooth,2,1.6614558
+scenario_one,zigbee,5,1.6657424
+scenario_one,bluetooth,5,2.1502538
+scenario_one,zigbee,3,2.205356
